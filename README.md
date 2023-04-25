@@ -24,3 +24,6 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+
+## Testing
+Testing and code modularization was beyond the scope of this tutorial but may be included for future work.
