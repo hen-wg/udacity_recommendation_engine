@@ -10,7 +10,8 @@ Please see below a description of each of the folders and files of interest.
 - Input data provided by IBM Watson Studio.                               
 
 ### Other files                                               
-- Recommendations_with_IBM (Jupyter notebook) that contains the code for the project.
+- Recommendations_with_IBM (Jupyter notebook) that contains the code for the project that should be reviewed.
+- Recommendations_with_IBM_calculations (Jupyter notebook) contains all testing and calculations for the project.
 - The file `project_tests.py` contains verification tests for the project.
 
 # Getting Started
